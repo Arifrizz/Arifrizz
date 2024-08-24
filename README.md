@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arifrizz
 - 👀 I’m interested in Programming,Gaming 
-- 🌱 I’m currently learning Java,web devlopment and AI
+- 🌱 I’m currently learning Java DSA
 - 💞️ I’m looking to collaborate on any open source projects related to java,web devlopment and AI
 - 📫 How to reach me:- ariif00vi@gmail.com
 - 😄 Pronouns:he/him
