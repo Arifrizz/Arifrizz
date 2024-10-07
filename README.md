@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on any open source projects related to java,web devlopment and AI
 - 📫 How to reach me:- ariif00vi@gmail.com
 - 😄 Pronouns:he/him
+- 🍚 Linux:Lately i have been using linux and to be honest i enjoyed ricing my arch linux system
 - ⚡ Fun fact:Programming has become such a part of my daily life that I've forgotten to go outside and touch some grass.
 
 <!---
