@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @therealLDG
+- 👋 Hi, I’m @rexysans
 - 👀 I’m interested in Programming,Gaming 
 - 🌱 I’m currently learning Web Devlopment 
 - 💞️ I’m looking to collaborate on any open source projects related to java,web devlopment and AI
